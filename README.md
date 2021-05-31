@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/leonardo.saes.50/" target="blank"/>
 <img align="center" alt="leonardo-facebook" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg"/>
 
-
 ## My Skills:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" height="40" width="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" height="40" width="40" style="max-width:100%;"></img>
