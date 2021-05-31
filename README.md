@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **LeonardoSaes/LeonardoSaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Connect with me: 
+<a href="https://www.facebook.com/leonardo.saes.50/" target="blank"/>
+<img align="center" alt="leonardo-facebook" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"/>
+
+
+## My Skills:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" style="max-width:100%;"></img>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSaes&layout=compact)](https://github.com/LeonardoSaes/github-readme-stats)
