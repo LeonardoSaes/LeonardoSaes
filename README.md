@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Connect with me: 
-<a href="https://www.facebook.com/leonardo.saes.50/" target="_blank"/></a>
+<a href="https://www.facebook.com/leonardo.saes.50/" target="_blank">Facebook</a>
 <img align="center" alt="leonardo-facebook" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg"/>
 
 ## My Skills:
