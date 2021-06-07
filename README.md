@@ -2,8 +2,8 @@
 ## Óla, bem vindo ao meu perfil!
 
 <a href="https://github.com/LeonardoSaes">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSaes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSaes&layout=compact&langs_count=16&theme=highcontrast"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSaes&layout=compact&langs_count=16&theme=tokyonight"/>
 
   ##  
   
