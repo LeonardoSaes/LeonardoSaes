@@ -1,5 +1,5 @@
 
-## Óla, bem vindo ao meu perfil!
+## Óla, bem vindo(a) ao meu perfil!
 
 <a href="https://github.com/LeonardoSaes">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
