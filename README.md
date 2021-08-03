@@ -8,10 +8,6 @@
 - 👨‍🎓 Atualmente estudo ADS na Etec Dr. Celso Giglio
 - 🌎 Objetivos: trabalhar fazendo o que gosto, programando❤ 
 
-
-
-
-
 <a href="https://github.com/LeonardoSaes">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSaes&layout=compact&langs_count=16&theme=tokyonight"/><br>
@@ -39,6 +35,5 @@
  <img align="center" alt="Git-leonardo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     
     
-   ![Snake animation](https://github.com/LeonardoSaes/LeonardoSaes/blob/output/github-contribution-grid-snake.svg)
   </div>
   
