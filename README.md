@@ -1,12 +1,12 @@
 
 ## Óla, bem vindo(a) ao meu perfil!
 
-###  Sou aficionado em devenvolvimento de sistemas !!<br><br>
+###  Sou aficionado em desenvolvimento de sistemas !!<br><br>
 
 - 🌱 Trabalhando em meu aprendizado como desenvolvedor.
 - ⚡ Pretendo colaborar e aprender com a comunidade Dev. 
 - 👨‍🎓 Atualmente estudo ADS na Etec Dr. Celso Giglio
-- 🌎 Objetivos: trabalhar fazendo o que gosto, programando❤ 
+- 🌎 Objetivo: trabalhar fazendo o que gosto, programando❤ 
 
 <a href="https://github.com/LeonardoSaes">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
