@@ -5,8 +5,8 @@
 
 - 🌱 Trabalhando em meu aprendizado como desenvolvedor.
 - ⚡ Pretendo colaborar e aprender com a comunidade Dev. 
-- 👨‍🎓 Atualmente estudo ADS na Etec Dr. Celso Giglio
-- 🌎 Objetivo: trabalhar fazendo o que gosto, programando❤ 
+- 👨‍🎓 Atualmente estudo ADS na Etec Dr. Celso Giglio.
+- 🌎 Objetivo: trabalhar fazendo o que gosto, programando❤.
 
 <a href="https://github.com/LeonardoSaes">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
