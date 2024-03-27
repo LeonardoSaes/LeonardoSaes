@@ -4,8 +4,9 @@
 ###  Sou aficionado em desenvolvimento de sistemas !!<br><br>
 
 - 🌱 Trabalhando em meu aprendizado como desenvolvedor.
-- ⚡ Pretendo colaborar e aprender com a comunidade Dev. 
-- 👨‍🎓 Formado em ADS na Etec Dr. Celso Giglio.
+- ⚡ Pretendo colaborar e aprender com a comunidade Dev.
+- 🖋️ Cursando Desenvolvimento de Software Multiplataforma na FATEC Prefeito Hirant Sanazar.
+- 👨‍🎓 Formado no curso técnico em Desenvolvimento de Sistemas na Etec Dr. Celso Giglio.
 - 🌎 Objetivo: trabalhar fazendo o que gosto, programando❤
 
 <a href="https://github.com/LeonardoSaes">
